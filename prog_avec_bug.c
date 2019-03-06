@@ -1,6 +1,6 @@
 #include "stdio.h"
 
-// Commandes importantes GDB
+// commandes importantes GDb
 //
 // run <arguments> <au> <programme>
 // where / backtrace (affiche la pile d'appel de fonction)
